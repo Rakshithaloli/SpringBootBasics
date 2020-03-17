@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc26917-7879-481b-8974-88a9f823089b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WC6kpyEzfEJtCAGQw3RvCJlP0i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/softeck/udemy" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.softeck.udemy.user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootUdemyExe">
+    <configuration name="SpringBootUdemyExe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softeck.udemy.SpringBootUdemyExe" />
+      <module name="SpringBootUdemyExe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeck.udemy.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootUdemyExe [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringBootUdemyExe" />
+      <item itemvalue="Maven.SpringBootUdemyExe [clean,install]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootUdemyExe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc26917-7879-481b-8974-88a9f823089b" name="Default Changelist" comment="" />
+      <created>1578641374780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578641374780</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="106" key="#Project_Structure" timestamp="1578894651457">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="431" y="106" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1578894651457" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579591571061">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1579591571061" />
+    <state x="644" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1579588231830">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="644" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1579588231830" />
+    <state x="485" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579504584671">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="485" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1579504584671" />
+    <state x="619" y="189" key="FileChooserDialogImpl" timestamp="1579693189961">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="619" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1579693189961" />
+    <state width="1557" height="577" key="GridCell.Tab.0.bottom" timestamp="1579598423424">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="577" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579598423424" />
+    <state width="1557" height="577" key="GridCell.Tab.0.center" timestamp="1579598423424">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="577" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1579598423424" />
+    <state width="1557" height="577" key="GridCell.Tab.0.left" timestamp="1579598423424">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="577" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1579598423424" />
+    <state width="1557" height="577" key="GridCell.Tab.0.right" timestamp="1579598423424">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="577" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1579598423424" />
+    <state width="1557" height="488" key="GridCell.Tab.1.bottom" timestamp="1579506302114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="488" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1579506302114" />
+    <state width="1557" height="488" key="GridCell.Tab.1.center" timestamp="1579506302114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="488" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1579506302114" />
+    <state width="1557" height="488" key="GridCell.Tab.1.left" timestamp="1579506302114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="488" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1579506302114" />
+    <state width="1557" height="488" key="GridCell.Tab.1.right" timestamp="1579506302114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="488" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1579506302114" />
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog" timestamp="1578999049261">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1578999049261" />
+    <state x="269" y="11" key="SettingsEditor" timestamp="1579600826455">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="269" y="11" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1579600826455" />
+    <state x="655" y="226" key="chooseDestDirectoryDialog" timestamp="1578893581207">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="655" y="226" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1578893581207" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579504624546">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1579504624546" />
+    <state x="535" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1580453170896">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="535" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580453170896" />
+    <state x="221" y="103" key="new project wizard" timestamp="1580453249542">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="221" y="103" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1580453249542" />
+    <state x="581" y="76" key="refactoring.ChangeSignatureDialog" timestamp="1578893844464">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="581" y="76" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1578893844464" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1579517948676">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1579517948676" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringBootUdemyExe$SpringBootUdemyExe.ic" NAME="SpringBootUdemyExe Coverage Results" MODIFIED="1578999801046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.softeck.udemy.user.*</FILTER>
+    </SUITE>
+  </component>
+</project>

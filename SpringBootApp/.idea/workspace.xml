@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac4e46a1-55de-45b1-8dcb-632530019b11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../SpringBootApp\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0dgbLcMIen4scYPb9a9efuanX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softeck.DemoApp" />
+      <module name="SpringBootApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softeck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac4e46a1-55de-45b1-8dcb-632530019b11" name="Default Changelist" comment="" />
+      <created>1578290563847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578290563847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="136" key="#Project_Structure" timestamp="1578295185917">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="366" y="136" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1578295185917" />
+    <state x="366" y="137" key="#Updates" timestamp="1578295024023">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="366" y="137" key="#Updates/0.0.1600.860@0.0.1600.860" timestamp="1578295024023" />
+    <state x="605" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1578304467723">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1578304467723" />
+    <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1578399279889">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578399279889" />
+    <state width="1557" height="206" key="GridCell.Tab.0.bottom" timestamp="1578398561431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578398561431" />
+    <state width="1557" height="206" key="GridCell.Tab.0.center" timestamp="1578398561430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578398561430" />
+    <state width="1557" height="206" key="GridCell.Tab.0.left" timestamp="1578398561430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578398561430" />
+    <state width="1557" height="206" key="GridCell.Tab.0.right" timestamp="1578398561431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578398561431" />
+    <state x="501" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578640848930">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578640848930" />
+    <state x="156" y="103" key="new project wizard" timestamp="1578641374508">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="156" y="103" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1578641374508" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578381534371">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1578381534371" />
+  </component>
+</project>
